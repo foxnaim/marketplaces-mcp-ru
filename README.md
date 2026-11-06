@@ -1,3 +1,8 @@
+> **foxnaim** · MCP для Wildberries, Ozon, Яндекс Маркета
+>
+> Готовая основа под клиентский проект. Стек: Python.
+> Лицензия MIT сохранена, история коммитов и авторы оригинального проекта сохранены.
+
 # marketplaces-mcp-ru: Wildberries, Ozon, Яндекс Маркет и Авито в вашем ИИ-ассистенте
 
 <!-- mcp-name: io.github.ilyautov/marketplaces-mcp-ru -->
